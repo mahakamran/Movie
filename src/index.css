@@ -1,0 +1,39 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+body{
+   background-color: black;
+   color: white;
+   overflow-x: hidden;
+}
+h1{
+   color: blue;
+}
+#text{
+   font-size: 40px;
+}
+#text1{
+padding-top: 18px;
+padding-left: 920px;
+}
+#text2{
+ padding-top: 18px;
+padding-left: 20px;
+}
+
+#btns{
+   background-color: rgb(27, 128, 99);
+   border: none;
+   font-size: 20px;
+   width: 100px;  
+   margin-left: 50px;
+}
+#search{
+   font-size: 25px;
+   font-weight: bold;
+}
+#movie{
+   font-size: 35px;
+}
